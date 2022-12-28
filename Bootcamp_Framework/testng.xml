@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Store Tests">
+    <test verbose="2" preserve-order="true" name="/Users/cxh0222/Desktop/Bootcamp_Framework">
+        <classes>
+            <class name="tests.StoreTests"/>
+        </classes>
+    </test>
+</suite>
